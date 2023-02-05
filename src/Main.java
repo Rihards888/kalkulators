@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Main {
     public static void main(String args[]) {
 
-// kalkulators
+// kalkulators.
 
         int sk1;
         int sk2;
