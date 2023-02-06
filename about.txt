@@ -12,3 +12,5 @@ Lietotājam ir jāspēj izvēlēties skaitli x un y, arī matemātisko darbību.
 Jāparāda rezultāts.
 
 Mājas darbu iesniegt kā linku uz github repo, atsūtot to man privāti discordā.
+
+Termiņš: 06.02.2023, plkst. 18:00!
