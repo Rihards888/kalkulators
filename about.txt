@@ -1,0 +1,14 @@
+U-4:
+
+Pēc lekcijas (0302) metožu izmantošanas parauga, izveidot kalkulatora funkcionalitāti. 
+Izmantot:
+1) Scanner,
+2) If/ else,
+3) Metodes, jeb funkcijas,
+4) Atbilstošus datu tipus.
+
+Kalkulatoram jāspēj veikt pamata matemātiskās darbības (+, -, *, /)
+Lietotājam ir jāspēj izvēlēties skaitli x un y, arī matemātisko darbību.
+Jāparāda rezultāts.
+
+Mājas darbu iesniegt kā linku uz github repo, atsūtot to man privāti discordā.
